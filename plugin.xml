@@ -38,6 +38,7 @@
 		                <string>soundcloud</string>
 		                <string>fb-messenger</string>
 		                <string>instagram</string>
+				<string>appspace</string>
 		            </array>
 		        </config-file>
 			<header-file src="src/ios/Launcher.h" />
