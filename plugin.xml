@@ -39,6 +39,7 @@
 		                <string>fb-messenger</string>
 		                <string>instagram</string>
 				<string>appspace</string>
+				    <string>teamontherun</string>
 		            </array>
 		        </config-file>
 			<header-file src="src/ios/Launcher.h" />
