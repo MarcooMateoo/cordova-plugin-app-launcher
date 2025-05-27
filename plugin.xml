@@ -54,6 +54,8 @@
 			</config-file>
 			<config-file mode="merge" target="AndroidManifest.xml" parent="./queries">
     				<package android:name="com.facebook.katana" />
+				<package android:name="com.appspace.mobile" />
+				<package android:name="com.teamontherun" />
 			</config-file>
 			<source-file src="src/android/Launcher.java" target-dir="src/com/hutchind/cordova/plugins/launcher" />
 			<source-file src="src/android/ParseTypes.java" target-dir="src/com/hutchind/cordova/plugins/launcher" />
