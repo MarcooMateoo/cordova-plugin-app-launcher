@@ -40,6 +40,7 @@
 		                <string>instagram</string>
 				<string>appspace</string>
 				    <string>teamontherun</string>
+				    <string>com.teamontherun</string>
 		            </array>
 		        </config-file>
 			<header-file src="src/ios/Launcher.h" />
